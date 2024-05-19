@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/yazansedih/Rotating-Navigation/assets/137224224/f03c1b07-ddc4-41d1-aab9-0a49c0ac61ab" width=500px/>
+  <img src="https://github.com/yazansedih/Rotating-Navigation/assets/137224224/ed0b5cdf-9f84-43ab-9039-a46698abbf60" width=500px/>
   <br />
   <br />
 
